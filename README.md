@@ -32,6 +32,3 @@ As a computer scientist, my approach to solving problems involves breaking down 
 As a computer scientist, it is important to ensure that the systems I build are **ethical**, **transparent**, and **fair**. In this project, while the agent’s decisions do not impact real-world users directly, I understand that for more impactful systems (like those in healthcare or finance), algorithms should be developed to prevent biases and **unintended consequences**. I also ensure that the code I write is robust and free from errors, safeguarding the integrity of the technology.
 
 ```bash
-git add README.md
-git commit -m "Updated README with original reflection and answers"
-git push
